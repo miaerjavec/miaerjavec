@@ -1,16 +1,14 @@
-## Hi there 👋
+## Živijo, sem Mia👋
+### 💻 CS student | ☕ Caffeine addict 
 
-<!--
-**miaerjavec/miaerjavec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dobrodošli na mojem GitHub profilu!
 
-Here are some ideas to get you started:
+Trenutno še učim:
+- Java
+- Python
+- HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  🤡 Fun Facts:
+- če nisem online, sem u gymu
+- sem ful kul (mam bend)
+- včasih tudi kej spesnim
